@@ -57,9 +57,9 @@ public class DisciplinaService {
 	
 	public DisciplinaNomeProfessorDTO getDisciplinaPorId(Long id) throws NotFoundException {
 		 Optional<Disciplina> disciplina = disciplinaRepository.findById(id);
-		 if(!disciplina.isEmpty())
+		 if(!disciplina.isEmpty()){
 			 throw new NotFoundException("Disciplina não localizada");
-		
+		 }
 		return new DisciplinaNomeProfessorDTO(disciplina.get());
 		
 	}
