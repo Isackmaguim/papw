@@ -19,8 +19,9 @@
 		<java.version>1.8</java.version>
 		<sonar.projectKey>papw</sonar.projectKey>
 		<sonar.organization>rodrigofujioka</sonar.organization>
-		<sonar.host.url>http://ip172-18-0-23-brglna5im9m0008jm90g-9000.direct.labs.play-with-docker.com \</sonar.host.url>
-		<sonar.login>01d8593e58335c6006d834e5549ae7bd54c3de56</sonar.login>
+		<sonar.host.url>http://ip172-18-0-23-brglna5im9m0008jm90g-9000.direct.labs.play-with-docker.com \
+		</sonar.host.url>
+		<sonar.login>a8c1eff235aa9b3c3a0b003f7f4c3d4fe175d703</sonar.login>
 
 	</properties>
 
