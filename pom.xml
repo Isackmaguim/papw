@@ -20,8 +20,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<sonar.projectKey>spi20201</sonar.projectKey>
-		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>b11086022186a7f8b69925f2d39cd79e4af617cf</sonar.login>
+		<sonar.host.url>http://ip172-18-0-3-brgdl8dim9m0009qjeug-9000.direct.labs.play-with-docker.com \</sonar.host.url>
+		<sonar.login>2d829c4c4a6aa6fb16405f9f9067f4d57b86c1b1</sonar.login>
 	</properties>
 
 	<dependencies>
