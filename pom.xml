@@ -18,8 +18,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<sonar.projectKey>java_fujio</sonar.projectKey>
-		<sonar.host.url>http://ip172-18-0-23-brglna5im9m0008jm90g-9000.direct.labs.play-with-docker.com</sonar.host.url>
-		<sonar.login>7ab601e732ef2ec91096c74dbc74bfd862d7bb00</sonar.login>
+		<sonar.host.url>http://ip172-18-0-26-brj5v1lim9m000bj91jg-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		<sonar.login>ec2e15e2d0853b0c6f526f4092468b4c061f5ea6</sonar.login>
 
 	</properties>
 
